@@ -1,0 +1,40 @@
+table, th, tr, td {
+    border: 1px solid black;
+}
+th {
+    font-size: 75px;
+    height: 145px;
+}
+td {
+    padding: 7px;
+}
+#Big-Table {
+    width: 600px;
+    height: 780px;
+    font-size: 30px;
+    table-layout: fixed;
+}
+#Nested-Table {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 22px;
+}
+.top {
+    vertical-align: top;
+}
+.v-center {
+    vertical-align: middle;
+}
+.bot {
+    vertical-align: bottom;
+}
+.left {
+    text-align: left;
+}
+.h-center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
