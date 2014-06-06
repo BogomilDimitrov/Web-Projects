@@ -4,9 +4,9 @@ table, th, td {
 table {
     border-spacing: 3px;
 }
-td {
-    padding: 15px;
-}
+    table td {
+        padding: 15px;
+    }
 #Nested-Table {
     width: 380px;
     font-size: 75px

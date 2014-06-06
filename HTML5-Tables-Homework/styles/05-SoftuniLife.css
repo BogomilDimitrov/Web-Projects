@@ -1,16 +1,17 @@
-table, th, tr, td {
+table, th, td {
     border: 1px solid black;
+    height: 25%;
 }
-th {
-    font-size: 75px;
-    height: 145px;
-}
-td {
-    padding: 7px;
-}
+    table th {
+        font-size: 75px;
+        height: 145px;
+    }
+    table td {
+        padding: 7px;
+    }
 #Big-Table {
     width: 600px;
-    height: 780px;
+    height: 750px;
     font-size: 30px;
     table-layout: fixed;
 }
